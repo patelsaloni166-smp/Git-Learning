@@ -7,3 +7,5 @@ const balance=239;
 function updateBalance(){
     balance+=20;
 }
+updateBalance();
+console.log("hello coder");
