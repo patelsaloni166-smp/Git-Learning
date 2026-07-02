@@ -15,3 +15,5 @@ function update(){
 }
 update();
 console.log(balance);
+
+console.log("money honey");
