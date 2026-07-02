@@ -9,3 +9,8 @@ function updateBalance(){
 }
 updateBalance();
 console.log("hello coder");
+
+function update(){
+    balance+50;
+}
+update();
