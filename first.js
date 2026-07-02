@@ -1,5 +1,5 @@
 const name="rohit";
-const age=20;
+const age=90;
 const balance=239;
 
 
@@ -21,7 +21,16 @@ console.log("main hu hero tera");
 console.log("money honey");
 console.log("final bug commit");
 
+
 function showage(value){
     console.log(age+value);
 }
 showage(10);
+
+
+
+function showName(){
+    console.log(name);
+}
+showName();
+
