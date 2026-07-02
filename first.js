@@ -14,3 +14,4 @@ function update(){
     balance+50;
 }
 update();
+console.log(balance);
