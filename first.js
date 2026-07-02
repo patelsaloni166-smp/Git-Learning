@@ -24,3 +24,8 @@ console.log("final bug commit");
 function showage(){
     console.log(age);
 }
+
+function showName(){
+    console.log(name);
+}
+showName();
