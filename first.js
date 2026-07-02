@@ -21,6 +21,7 @@ console.log("main hu hero tera");
 console.log("money honey");
 console.log("final bug commit");
 
-function showage(){
-    console.log(age);
+function showage(value){
+    console.log(age+value);
 }
+showage(10);
