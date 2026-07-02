@@ -34,3 +34,4 @@ function showName(){
 }
 showName();
 
+console.log("instant updates");
