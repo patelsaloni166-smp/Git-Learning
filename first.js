@@ -34,6 +34,6 @@ function showName(){
 }
 showName();
 
-console.log("instant updates");
+
 
 console.log("bux fixed");
